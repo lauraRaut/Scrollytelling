@@ -26,7 +26,19 @@
     "gatsby-source-filesystem": "^5.8.0",
     "gatsby-transformer-remark": "^6.8.0",
     "gatsby-transformer-sharp": "^5.8.0",
+    "gsap": "^3.11.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass": "^1.62.0",
+    "split-text": "^1.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.2",
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1"
   }
 }

@@ -1,0 +1,27 @@
+.header-container {
+    position: relative;
+}
+
+.header-menu {
+    position: absolute;
+    left: 0;
+    top: 100px;
+
+    letter-spacing: 1px;
+    font-family: 'Archivo', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+li {
+    margin: 10px 0;
+    list-style: none;
+}
+
+#header-text {
+    font-size: 20vw;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}

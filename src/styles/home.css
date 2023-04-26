@@ -1,0 +1,16 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #808080;
+}
+
+.main-container {
+    padding: 0 5vw;
+}
+
+section {
+    padding: 100px 0;
+}
+
+.section-header {
+    margin-bottom: 50px;
+}

@@ -1,0 +1,9 @@
+.section-header {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: 'Archivo', sans-serif;
+    margin-left: 3vw;
+    font-size: 20px;
+
+}
