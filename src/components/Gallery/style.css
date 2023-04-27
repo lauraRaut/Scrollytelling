@@ -7,7 +7,7 @@
 
 .gallery-counter {
     position: absolute;
-    top: 10%;
+    top: -25%;
     left: 100px;
     z-index: 1;
     mix-blend-mode: difference;
@@ -52,10 +52,12 @@
 }
 
 .gallery-info-title {
+    position: relative;
     line-height: 6vw;
     font-family: 'Archivo', sans-serif;
     font-weight: 600;
     font-size: 6vw;
+
 }
 
 .gallery-info-subtitle {
@@ -66,6 +68,7 @@
     font-weight: 400;
     font-size: 6vw;
     -webkit-text-stroke: 2px #dbd8d6;
+
 }
 
 .gallery-info-category {
@@ -75,6 +78,7 @@
     font-weight: 400;
     font-size: 24px;
     margin-top: 2vh;
+
 }
 
 .gallery-item-wrapper {

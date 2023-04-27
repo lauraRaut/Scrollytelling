@@ -12,8 +12,8 @@ const images = [
     },
     {
         src: "https://www.finna.fi/Cover/Show?source=Solr&id=museovirasto.412121BCDE18C70AB1758419B89AB800&index=0&size=large",
-        title: "Sirelius, U. T.,1898",
-        subtitle: "Hantinaisia, Museovirasto, Finna.fi"
+        title: "Sirelius,1898, Hantinaisia",
+        subtitle: "Suomalais-ugrilainen kuvakokoelma,Museovirasto, Finna.fi"
 
     },
     {
@@ -56,7 +56,7 @@ export default function Gallery() {
         <div className="gallery">
             <div className="gallery-counter">
                 <span>{activeImage}</span>
-                <span className="divider"></span>
+                <span className="divider" />
                 <span>{images.length}</span>
             </div>
 
